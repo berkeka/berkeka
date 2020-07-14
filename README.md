@@ -1,16 +1,12 @@
-### Hi there 👋
+## Berke Kalkan
+---
 
-<!--
-**berkeka/berkeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A computer engineering student who is passionate about technology. 
+Likes to learn new things software related. 
+Specializes in Web development with **Ruby On Rails**.
+### Contact
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Personal site](https://berkeka.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/berkekalkan)
+- [Twitter](https://twitter.com/sandwichstalker)
